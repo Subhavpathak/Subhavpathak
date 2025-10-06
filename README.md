@@ -17,7 +17,7 @@
 🎯 Skilled in <b>Python, React, TailwindCSS, MongoDB, Javascript, NodeJs</b><br>
 🌱 Learning <b>Deep Learning & Cloud Deployment</b><br>
 📫 Reach me at: 
-<a href="mailto:subhavpathak18@gmail.com">subhavpathak@iiitr.ac.in</a> |
+<a href="mailto:subhavpathak18@gmail.com">subhavpathak18@gmail.com</a> |
 <a href="https://linkedin.com/in/subhav-kumar-706401200">LinkedIn</a>
 </p>
 
