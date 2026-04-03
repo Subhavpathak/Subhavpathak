@@ -62,23 +62,23 @@
 
 ---
 
-### 📊 System Diagnostics
+### 📊 Profile Stats
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhavpathak&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Subhav's Activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Subhavpathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Subhav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhavpathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Subhav's GitHub Stats" />
   
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Subhavpathak&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Subhav's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhavpathak&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Subhav's Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhavpathak&theme=tokyonight&hide_border=true" height="165" alt="Subhav's Streak" />
 </p>
 
-### 🌐 Direct Uplink
+### 🌐 Profiles & Contacts
 
 <p align="center">
   <a href="https://linkedin.com/in/subhav-kumar-706401200">
