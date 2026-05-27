@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=200&section=header&text=Subhav%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9A7,100:00E5FF&height=220&section=header&text=Subhav%20Kumar&fontSize=70&animation=fadeIn&fontAlignY=35&fontColor=000000" width="100%"/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;AI+Research+Specialist;NLP+%26+Latent+Space+Explorer;300%2B+DSA+Problems+Solved;Building+Scalable+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=AI+Research+Intern+%40+IIT+Madras;Paper+Accepted+%40+ICCSE+2026;Full-Stack+Engineer+%7C+NLP+Explorer;400%2B+DSA+Problems+Solved;Building+Scalable+Intelligence" alt="Typing SVG" />
 
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Subhavpathak&label=System%20Accesses&color=00C9A7&style=flat-square" alt="Subhavpathak" />
+    <img src="https://img.shields.io/badge/Research_Intern-IIT_Madras-00C9A7?style=flat-square&logo=google-scholar&logoColor=white" alt="IIT Madras" />
+    <img src="https://img.shields.io/badge/Paper_Accepted-ICCSE_2026-FFD700?style=flat-square&logo=arxiv&logoColor=white" alt="ICCSE 2026" />
   </p>
 
   <p align="center">
@@ -17,10 +18,11 @@
 
 ### 🧬 The Core Workspace
 
-- 🔬 **Active Research:** Deep-level **Latent Space Inversion** — decoding how models "think" and reconstruct text in vector space.
-- 🧠 **AI/DL Mastery:** Developing robust **RAG Pipelines**, Agentic Workflows, and Neural Privacy frameworks.
-- 💻 **Engineering Rigor:** Built on a foundation of **300+ DSA problems** and complex **Object-Oriented Design**.
-- 🛠️ **Full-Stack Prowess:** Moving beyond simple apps to high-performance architectures with **MERN, NestJS, and FastAPI**.
+- 🔬 **Research Intern @ WSAI, IIT Madras** — Working on **"Semantic Text Reconstruction from Embeddings"**, exploring how meaning can be recovered from compressed vector representations.
+- 📄 **Paper Accepted @ ICCSE 2026, Budapest, Hungary** — *"PCA-based Defense Against Embedding Inversion and User History Leakage in Recommendation Systems"*.
+- 🧠 **AI/DL Mastery:** Building robust **RAG Pipelines**, Agentic Workflows, and Neural Privacy frameworks.
+- 💻 **Engineering Rigor:** Grounded in **400+ DSA problems** solved and complex **Object-Oriented Design**.
+- 🛠️ **Full-Stack Prowess:** High-performance architectures with **MERN, NestJS, and FastAPI**.
 
 ---
 
@@ -34,14 +36,45 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%"><b>Intelligence Layer</b></td>
-    <td align="center" width="33%"><b>Application Layer</b></td>
-    <td align="center" width="33%"><b>Infrastructure Layer</b></td>
+    <td align="center" width="33%"><b>🧠 Intelligence Layer</b></td>
+    <td align="center" width="33%"><b>⚙️ Application Layer</b></td>
+    <td align="center" width="33%"><b>🏗️ Infrastructure Layer</b></td>
   </tr>
   <tr>
-    <td align="center"><i>Transformers, NLP, CV, LLM Evals, LoRA, Quantization</i></td>
+    <td align="center"><i>Transformers, NLP, CV, LLM Evals, LoRA, Quantization, PCA</i></td>
     <td align="center"><i>MERN Stack, Next.js, Django, REST/GraphQL APIs</i></td>
     <td align="center"><i>HPC, Docker, CI/CD, Linux Internals, Cloud Deployment</i></td>
+  </tr>
+</table>
+
+---
+
+### 📑 Research & Publications
+
+<table align="center">
+  <tr>
+    <td align="center">📍</td>
+    <td><b>PCA-based Defense Against Embedding Inversion and User History Leakage in Recommendation Systems</b></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://img.shields.io/badge/Accepted-ICCSE_2026-FFD700?style=flat-square" />
+      <img src="https://img.shields.io/badge/Venue-Budapest,_Hungary-blue?style=flat-square" /><br>
+      <i>Proposes a PCA-based dimensionality reduction defense that mitigates embedding inversion attacks while preserving recommendation quality.</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🔬</td>
+    <td><b>Semantic Text Reconstruction from Embeddings</b> <i>(Ongoing @ WSAI, IIT Madras)</i></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>
+      <img src="https://img.shields.io/badge/Status-In_Progress-00C9A7?style=flat-square" />
+      <img src="https://img.shields.io/badge/Lab-WSAI,_IIT_Madras-orange?style=flat-square" /><br>
+      <i>Investigating decoder-based methods to reconstruct semantically faithful text from dense embedding representations.</i>
+    </td>
   </tr>
 </table>
 
@@ -70,13 +103,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Subhavpathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Subhav's GitHub Stats" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhavpathak&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Subhav's Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhavpathak&theme=tokyonight&hide_border=true" height="165" alt="Subhav's Streak" />
 </p>
+
+---
 
 ### 🌐 Profiles & Contacts
 
@@ -92,4 +126,8 @@
   </a>
 </p>
 
-<h4 align="center">"Latent spaces are maps to the unseen; I'm just here to decode them." 🚀</h4>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C9A7,100:00E5FF&height=120&section=footer" width="100%"/>
+</div>
